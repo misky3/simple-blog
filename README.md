@@ -1,3 +1,7 @@
+# Check link for the homepage
+
+Link to the start of the app: https://misky3.github.io/simple-blog
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
