@@ -1,4 +1,4 @@
-#Check link for the homepage
+# Check link for the homepage
 
 Link to the start of the app: https://misky3.github.io/simple-blog
 
